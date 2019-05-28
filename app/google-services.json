@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938852580055",
+    "firebase_url": "https://login-ui-54c9f.firebaseio.com",
+    "project_id": "login-ui-54c9f",
+    "storage_bucket": "login-ui-54c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938852580055:android:f9f0909082dd2728",
+        "android_client_info": {
+          "package_name": "com.bairwa.loginintent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938852580055-49ad3eer7jr2u6tfs891mfe5k87hsq51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bairwa.loginintent",
+            "certificate_hash": "df78748ac3f54df56c812d2751919457aa619bf0"
+          }
+        },
+        {
+          "client_id": "938852580055-fsnqb22iae9v5klkm452se4dnrp668u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBResLl47oYpmgZm8d_x_uSXgO4N4QyOWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938852580055-fsnqb22iae9v5klkm452se4dnrp668u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
